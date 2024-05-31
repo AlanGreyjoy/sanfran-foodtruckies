@@ -13,6 +13,7 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@fontsource/inter": "^5.0.18",
+    "@googlemaps/markerclusterer": "^2.5.3",
     "@iconify/react": "^5.0.1",
     "@mui/joy": "^5.0.0-beta.36",
     "@reduxjs/toolkit": "^2.2.5",

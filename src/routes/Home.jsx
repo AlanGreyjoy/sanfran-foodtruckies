@@ -1,5 +1,4 @@
-import { Container, Stack, Typography } from '@mui/joy'
-import FoodTrucksTable from '@/_core/components/home/FoodTrucksTable'
+import { Stack, Typography } from '@mui/joy'
 import FoodTrucksMap from '@/_core/components/home/FoodTrucksMap'
 import FoodTrucksList from '@/_core/components/home/FoodTrucksList'
 

@@ -39,11 +39,22 @@ export default function FoodTrucksList(props) {
           {foodTrucks?.map(foodTruck => (
             <ListItem key={foodTruck.objectid}>
               <ListItemButton>
-                <ListItemDecorator>
-                  <IconifyIcon icon='mdi:truck-fast' />
+                <ListItemDecorator
+                  sx={{
+                    fontSize: '1.5rem'
+                  }}
+                >
+                  🚚
                 </ListItemDecorator>
                 <ListItemContent>
                   <Typography level='body-sm'>{foodTruck.applicant}</Typography>
+                  <Stack
+                    direction={'row'}
+                    gap={1}
+                  >
+                    <Typography level='body-xs'>Permit status:</Typography>
+                    <Typography level='body-xs'>{foodTruck.status}</Typography>
+                  </Stack>
                 </ListItemContent>
               </ListItemButton>
             </ListItem>
