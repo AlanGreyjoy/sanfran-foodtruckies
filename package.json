@@ -17,7 +17,9 @@
     "@reduxjs/toolkit": "^2.2.5",
     "prettier": "^3.2.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1",
+    "vite-plugin-mkcert": "^1.17.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
@@ -28,5 +30,23 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.0"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "htmlWhitespaceSensitivity": "css",
+    "insertPragma": false,
+    "bracketSameLine": false,
+    "jsxSingleQuote": true,
+    "printWidth": 100,
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "requirePragma": false,
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "useTabs": false,
+    "singleAttributePerLine": true
   }
 }
