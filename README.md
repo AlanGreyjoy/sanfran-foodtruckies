@@ -12,3 +12,12 @@ To run the application, you need to have [Node.js](https://nodejs.org/en/) insta
 npm install
 npm run dev
 ```
+
+## Technologies
+
+- React
+- Vite
+- MUI (Material-UI) JOY UI
+- RTK & RTK Query
+- Firebase (for future implementation of authentication, firestore, and hosting)
+- React DOM Router (for routing)
