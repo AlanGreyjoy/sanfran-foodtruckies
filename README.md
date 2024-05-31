@@ -21,3 +21,7 @@ npm run dev
 - RTK & RTK Query
 - Firebase (for future implementation of authentication, firestore, and hosting)
 - React DOM Router (for routing)
+
+## Live Demo
+
+Coming soon...

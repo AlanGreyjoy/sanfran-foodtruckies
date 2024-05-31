@@ -1,9 +1,30 @@
-import { Stack, Typography } from '@mui/joy'
+import { Container, Stack, Typography } from '@mui/joy'
+import FoodTrucksTable from '@/_core/components/home/FoodTrucksTable'
+import FoodTrucksMap from '@/_core/components/home/FoodTrucksMap'
+import FoodTrucksList from '@/_core/components/home/FoodTrucksList'
 
 export default function Home() {
   return (
-    <Stack>
-      <Typography level='h3'>Hello 👋🏻</Typography>
+    <Stack px={2}>
+      <Stack gap={2}>
+        {/* Title */}
+        <Stack
+          alignItems={'center'}
+          justifyContent={'center'}
+        >
+          <Typography level='h1'>SanFran FoodTruckies 🚚</Typography>
+          <Typography>Search and find your favorite food trucks in San Francisco!</Typography>
+        </Stack>
+
+        {/* Map */}
+        <Stack
+          direction={'row'}
+          gap={2}
+        >
+          <FoodTrucksList />
+          <FoodTrucksMap />
+        </Stack>
+      </Stack>
     </Stack>
   )
 }

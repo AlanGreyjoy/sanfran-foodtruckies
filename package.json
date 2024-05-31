@@ -16,6 +16,7 @@
     "@iconify/react": "^5.0.1",
     "@mui/joy": "^5.0.0-beta.36",
     "@reduxjs/toolkit": "^2.2.5",
+    "@vis.gl/react-google-maps": "^1.0.2",
     "firebase": "^10.12.2",
     "firebase-tools": "^13.10.2",
     "prettier": "^3.2.5",
