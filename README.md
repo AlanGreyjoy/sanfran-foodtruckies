@@ -6,7 +6,7 @@ This is a simple web application that shows the food trucks that are open at the
 
 ## Spin-off projects
 
-- SanFran MFFP Proxy Service - A Node.js and Express backend service that acts as a proxy server for the San Francisco government's API. It's just a simple wrapper that translates object based search parameters and converts them into a single string query. [View repo here]("https://github.com/AlanGreyjoy/sanfran-mffp-proxy")
+- SanFran MFFP Proxy Service - A Node.js and Express backend service that acts as a proxy server for the San Francisco government's API. It's just a simple wrapper that translates object based search parameters and converts them into a single string query. View the repo [here](https://github.com/AlanGreyjoy/sanfran-mffp-proxy)
 
 ## Installation
 
