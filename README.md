@@ -1,8 +1,6 @@
-![alt text](https://github.com/AlanGreyjoy/sanfran-foodtruckies/blob/main/public/foodTruckApp.png?raw=true)
+![alt text](https://github.com/AlanGrejoy/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-# SanFran FoodTruckes - A coding challenge
-
-## Description
+# SanFran FoodTruckies - A coding challenge
 
 This is a simple web application that shows the food trucks that are open at the current time in San Francisco. The application uses the [San Francisco government's API](https://dev.socrata.com/foundry/data.sfgov.org/rqzj-sfat) to get the data.
 
