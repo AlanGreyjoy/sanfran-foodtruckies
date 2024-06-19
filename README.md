@@ -1,3 +1,5 @@
+![alt text](https://github.com/AlanGreyjoy/sanfran-foodtruckies/blob/main/public/foodTruckApp.png?raw=true)
+
 # SanFran FoodTruckes - A coding challenge
 
 ## Description
