@@ -1,4 +1,4 @@
-![alt text](https://github.com/AlanGrejoy/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AlanGreyjoy/sanfran-foodtruckies/blob/main/public/foodTruckApp.png?raw=true)
 
 # SanFran FoodTruckies - A coding challenge
 
